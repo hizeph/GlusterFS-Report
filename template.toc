@@ -3,6 +3,6 @@
 \contentsline {section}{\numberline {2}SLA/RECSPEC}{1}{section.2}
 \contentsline {section}{\numberline {3}Survey of similar projects}{1}{section.3}
 \contentsline {section}{\numberline {4}Description of your experiment}{1}{section.4}
-\contentsline {section}{\numberline {5}Results and discussion}{1}{section.5}
-\contentsline {section}{\numberline {6}Security aspects}{1}{section.6}
-\contentsline {section}{\numberline {7}Conclusions}{1}{section.7}
+\contentsline {section}{\numberline {5}Results and discussion}{2}{section.5}
+\contentsline {section}{\numberline {6}Security aspects}{2}{section.6}
+\contentsline {section}{\numberline {7}Conclusions}{2}{section.7}

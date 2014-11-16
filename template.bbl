@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{GlusterFS:Glossary:14}
+\textsc{GlusterFS}.
+\newblock \href{http://gluster.org/documentation/Glossary/} {Glossary -
+  gluster}, 2014.
+\newblock [Online; accessed 11-November-2014].
+
+\bibitem{GlusterFS:About:14}
+\textsc{GlusterFS}.
+\newblock \href{http://gluster.org/documentation/About_Gluster/} {Gluster},
+  2014.
+\newblock [Online; accessed 11-November-2014].
+
+\bibitem{XFS}
+\textsc{SGI}.
+\newblock \href{http://oss.sgi.com/projects/xfs/} {Xfs: A high-performance
+  journaling filesystem}, 2012.
+\newblock [Online; accessed 16-November-2014].
+
+\end{thebibliography}
