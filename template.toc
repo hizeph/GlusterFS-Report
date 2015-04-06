@@ -1,8 +1,6 @@
 \select@language {norsk}
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {section}{\numberline {2}SLA/RECSPEC}{1}{section.2}
-\contentsline {section}{\numberline {3}Survey of similar projects}{1}{section.3}
-\contentsline {section}{\numberline {4}Description of your experiment}{1}{section.4}
-\contentsline {section}{\numberline {5}Results and discussion}{2}{section.5}
-\contentsline {section}{\numberline {6}Security aspects}{2}{section.6}
-\contentsline {section}{\numberline {7}Conclusions}{2}{section.7}
+\contentsline {section}{\numberline {3}Description of your experiment}{1}{section.3}
+\contentsline {section}{\numberline {4}Security aspects}{3}{section.4}
+\contentsline {section}{\numberline {5}Conclusions}{3}{section.5}

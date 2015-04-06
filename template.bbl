@@ -1,5 +1,11 @@
 \begin{thebibliography}{1}
 
+\bibitem{Murphy}
+\textsc{Avidor, R.}
+\newblock \href{http://www.murphys-laws.com/murphy/murphy-laws.html} {Murphy
+  laws site - murphy laws}, 2014.
+\newblock [Online; accessed 19-November-2014].
+
 \bibitem{GlusterFS:Glossary:14}
 \textsc{GlusterFS}.
 \newblock \href{http://gluster.org/documentation/Glossary/} {Glossary -
@@ -11,6 +17,12 @@
 \newblock \href{http://gluster.org/documentation/About_Gluster/} {Gluster},
   2014.
 \newblock [Online; accessed 11-November-2014].
+
+\bibitem{Puppet}
+\textsc{Meds, C.~M.}
+\newblock \href{https://forge.puppetlabs.com/covermymeds/gluster} {Gluster
+  puppet module}, 2014.
+\newblock [Online; accessed 21-November-2014].
 
 \bibitem{XFS}
 \textsc{SGI}.
